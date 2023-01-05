@@ -1,2 +1,2 @@
 # java-image-bed
-Spring Boot + SQLite + Nginx实现的图床服务器
+Spring Boot + SQLite + Vue + Nginx实现的图床服务器
